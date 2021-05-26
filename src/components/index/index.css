@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding: 0px;
+  }
+  .list-product-tite{
+    width: 100%;
+    text-transform: uppercase;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .list-product-subtite{
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .card-product{
+    width: 100%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    overflow: hidden;
+  
+  }
+.card-img-top{
+  width: 100%;
+  height: 280px;
+}
+  
+  
+  
